@@ -4,18 +4,21 @@ Bem-vindo ao meu repositório de estudos de lógica de programação!
 
 Este repositório reúne exercícios que resolvi durante minha aprendizagem com o curso de algoritmos do professor Nélio Alves. O objetivo é registrar minha evolução e praticar os principais conceitos da programação.
 
-## Linguagem utilizada
+## Objetivo 🎯
+
+# Compartilhar minha evolução nas linguagens de programação e sua logica.
+
+## Linguagem utilizada 
 
 Atualmente, os exercícios são desenvolvidos em:
 
-- C
+- [x] C
+- [ ] C++
+- [ ] C#
+- [ ] Java
+- [ ] Python
 
-Futuramente, também pretendo praticar com:
-
-- C++
-- C#
-- Java
-- Python
+Novas linguagens serão adicionadas conforme eu avançar nos estudos. Sempre que possível, pretendo resolver exercícios semelhantes em linguagens diferentes para comparar sua sintaxe e seus recursos.
 
 ## Conteúdos estudados
 
@@ -27,7 +30,7 @@ Futuramente, também pretendo praticar com:
 - [x] Vetores
 - [ ] Matrizes
 
-## Como compilar e executar
+## Como compilar e executar os exercícios em C
 
 É necessário ter um compilador C, como o GCC.
 
@@ -49,9 +52,4 @@ Para programas que utilizam a biblioteca `<math.h>`, adicione `-lm`:
 gcc arquivo.c -o programa -lm
 ```
 
-## Objetivo
-
-Este repositório tem finalidade educacional. Alguns códigos podem receber melhorias conforme eu aprender novas técnicas e revisar os exercícios antigos.
-
-A ideia é manter aqui um registro real da minha evolução como programador.
 
