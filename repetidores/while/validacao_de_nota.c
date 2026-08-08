@@ -8,7 +8,8 @@ int main (){
     printf("Digite a segunda nota: ");
     scanf("%lf", &nota2);
 
-    while (nota1 < 0 || nota1 > 10 && nota2 < 0 || nota2 > 10)
+    while ((nota1 < 0 || nota1 > 10) ||
+       (nota2 < 0 || nota2 > 10))
     {
         printf("Nota invalida tente novamente: ");
         scanf("%lf", &nota1);

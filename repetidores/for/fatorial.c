@@ -2,7 +2,7 @@
 
 int main ()
 {
-    int N, i, x = 0, fatorial = 1;
+    int N, i, fatorial = 1;
 
     printf("Digite o valor de N: ");
     scanf("%d", &N);
