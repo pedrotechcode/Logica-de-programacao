@@ -6,7 +6,7 @@ Este repositório reúne exercícios que resolvi durante minha aprendizagem com 
 
 ## Objetivo 🎯
 
-# Compartilhar minha evolução nas linguagens de programação e sua logica.
+Compartilhar minha evolução nas linguagens de programação e sua logica.
 
 ## Linguagem utilizada 
 
